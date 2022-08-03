@@ -7,5 +7,6 @@
 
 ## Selenium 
 
-
+1. Use ids over xpath 
+2. Create POM files
 
